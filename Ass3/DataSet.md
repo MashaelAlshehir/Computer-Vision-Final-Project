@@ -1,2 +1,1 @@
-to run code on Colab you need to download dataset from Cifar-10 and upload dataset in Drive 
-https://cave.cs.toronto.edu/kriz/cifar-10-python.tar.gz
+To run the code on Colab, download the CIFAR-10 dataset and upload it to Google Drive: https://cave.cs.toronto.edu/kriz/cifar-10-python.tar.gz
