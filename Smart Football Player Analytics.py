@@ -4,6 +4,8 @@
 # Abeer Al-Enezi
 # Enhar Al-Mutairi
 # ============================================================
+# You can download and view the project video from the link below:
+#Download the Project Video
 # -*- coding: utf-8 -*-
 """Smart Football Player Analytics.ipynb
 
