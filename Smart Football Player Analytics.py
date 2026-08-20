@@ -1,4 +1,9 @@
-
+# ============================================================
+# Project Authors
+# Mashael Alshehri
+# Abeer Al-Enezi
+# Enhar Al-Mutairi
+# ============================================================
 # -*- coding: utf-8 -*-
 """Smart Football Player Analytics.ipynb
 
